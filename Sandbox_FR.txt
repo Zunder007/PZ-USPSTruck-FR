@@ -1,0 +1,6 @@
+Sandbox_FR = {
+	Sandbox_USPSTruck = "Camion postal",
+	Sandbox_USPSTruck_RewardItem = "Objet de récompense",
+	Sandbox_USPSTruck_PayPerItem = "Paye par article",
+	Sandbox_USPSTruck_TimeTillDeliver = "Temps jusqu'à la livraison",
+}
