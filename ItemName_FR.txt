@@ -1,0 +1,8 @@
+ItemName_FR = {
+	ItemName_Base.Postal_Worker_Satchel = "Sac postal",
+	ItemName_MMVip.Postal_Worker_Coat = "Manteau du service postal",
+	ItemName_MMVip.Postal_Worker_Hat = "Chapeau du service postal",
+	ItemName_MMVip.Postal_Worker_Shirt = "Polo du service postal",
+	ItemName_MMVip.Postal_Worker_Shorts = "Short du service postal",
+	ItemName_MMVip.Postal_Worker_Trousers = "Pantalon du service postal",
+}
